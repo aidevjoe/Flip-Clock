@@ -6,7 +6,7 @@
     <img src="logo.png" width="200" height="200" style="border-radius: 10%;">
     <h1 style="border-bottom: none;">Snibox</h1>
    </div>
-    <a href="https://apps.apple.com/app/snibox/id">
+    <a href="https://apps.apple.com/en/app/id6572311811">
         <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1610841600&h=dd794eff4a1f9e8b968be4ea83f28669" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;">
     </a>
 </div>
